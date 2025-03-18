@@ -2,7 +2,7 @@ build:
   version: "3.2"
 
 cards:
-  message: "Welcome to cards related local APIs "
+  message: "Welcome to cards related local production APIs "
   contactDetails:
     name: "Amaal Grega - Developer prod"
     email: "amaal@pblgllgs.com"
