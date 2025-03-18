@@ -2,7 +2,7 @@ build:
   version: "3.2"
 
 loans:
-  message: "Welcome to loans related local APIs "
+  message: "Welcome to loans related local production APIs "
   contactDetails:
     name: "Amaal Grega - Developer prod"
     email: "amaal@pblgllgs.com"
