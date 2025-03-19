@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to accounts related local prod APIs, spring cloud bus test 7"
+  message: "Welcome to accounts related local prod APIs, spring cloud bus test 8"
   contactDetails:
     name: "John Doe - prod"
     email: "{cipher}7513ce58202f7bfce45aa6bf4b56690f3d2e406a13c078a9088dd8accd9257b4f9cc12154cb1ba8f6953827030a7505c"
